@@ -19,7 +19,7 @@ By calculating a cosine similarity score, the tool provides an objective, data-d
 
 ## Try the App Here-
 
-https://resume-screening-ai-dxznuek3kxfi9aqtubkuea.streamlit.app/Resume_Screener
+https://resume-screening-ai-dxznuek3kxfi9aqtubkuea.streamlit.app/
 
 
 ## Tech Stack
